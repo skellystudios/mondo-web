@@ -10,6 +10,7 @@ gem 'haml'
 gem 'sass'
 gem 'active_link_to'
 gem 'uglifier'
+gem 'therubyracer', platforms: :ruby
 
 group :development, :test do
   gem 'byebug'
